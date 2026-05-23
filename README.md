@@ -44,10 +44,10 @@ Integrated program-delivery workbook containing task tracking, milestone plannin
 
 Primary worksheet tabs include:
 
-- **Task_Tracker** — centralized task inventory, ownership tracking, workflow status, priorities, dependencies, and due-date coordination  
-- **Timeline** — phased implementation schedule and milestone sequencing logic  
-- **Rules** — workflow assumptions, scheduling logic, and supporting implementation structures  
-- **RAID_Log** — structured tracking of risks, assumptions, issues, and dependencies supporting governance visibility
+- **Task_Tracker** - centralized task inventory, ownership tracking, workflow status, priorities, dependencies, and due-date coordination  
+- **Timeline** - phased implementation schedule and milestone sequencing logic  
+- **Rules** - workflow assumptions, scheduling logic, and supporting implementation structures  
+- **RAID_Log** - structured tracking of risks, assumptions, issues, and dependencies supporting governance visibility
 
 ---
 

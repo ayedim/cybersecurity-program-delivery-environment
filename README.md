@@ -39,10 +39,14 @@ Supporting technical materials documenting workflow structure, automation logic,
 #### Program Delivery Materials
 
 **Cybersecurity_Program_Workspace.xlsx**  
-Primary planning workbook used for task tracking, dependency management, milestone sequencing, status monitoring, and governance coordination.
+Integrated program-delivery workbook containing task tracking, milestone planning, dependency management, timeline sequencing, rules logic, and RAID governance materials across multiple worksheets.
 
-**RAID_Log.xlsx**  
-Structured RAID log supporting risk, assumption, issue, and dependency management.
+Primary worksheet tabs include:
+
+- **Task_Tracker** — centralized task inventory, ownership, status tracking, priorities, dependencies, and due-date coordination  
+- **Timeline** — phased implementation schedule and milestone sequencing  
+- **Rules** — workflow logic and supporting program-delivery structures  
+- **RAID_Log** — structured tracking of risks, assumptions, issues, and dependencies supporting governance review
 
 #### Workflow and Coordination Materials
 
